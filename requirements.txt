@@ -1,0 +1,5 @@
+langchain
+streamlit
+langsmith
+python-dotenv
+aiogram
